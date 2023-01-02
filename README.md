@@ -16,6 +16,8 @@ On your laptop, the only tools needed are:
 - gcloud CLI
 - confluent CLI
 
+Please also check that the `gcloud` and the `confluent` CLIs are already authenticated.
+
 ## Set up 
 
 You need to create a configuraiton file that holds the following variables:
